@@ -61,5 +61,11 @@ const appMenuItems = <MenuItem>[
     subTitle: 'Scroll infinito',
     link: '/infinite-scroll',
     icon: Icons.open_in_full_outlined,
+  ),
+  MenuItem(
+    title: 'Counter Riverpod',
+    subTitle: 'Contador con riverpod - introducción',
+    link: '/counter',
+    icon: Icons.timer_outlined,
   )
 ];
